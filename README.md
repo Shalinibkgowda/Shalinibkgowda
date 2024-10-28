@@ -1,5 +1,5 @@
 # 💫 About Me:
--hi👋 I’m Shalini bk<br>-computer science student(BCA) final year<br>-👀 I’m interested in learning new technologies<br>-🌱 I’m currently learning python language and in frontend html,css,xml<br>-other profile:  my linkedin profile:www.linkedin.com/in/shalinibk23<br><br>🌐 Socials: my linkedin profile:www.linkedin.com/in/shalinibk23
+-hi👋 I’m Shalini bk<br>-computer science student(BCA) final year<br>-👀 I’m interested in learning new technologies<br>-🌱 I’m currently learning python language and in frontend html,css,xml<br>🌐 Socials: my linkedin profile:www.linkedin.com/in/shalinibk23
 
 
 ## 🌐 Socials:
